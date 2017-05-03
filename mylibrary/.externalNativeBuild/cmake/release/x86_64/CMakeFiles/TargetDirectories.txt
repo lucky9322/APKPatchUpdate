@@ -1,0 +1,5 @@
+/Users/lucky/as_code/APKPatchUpdate/mylibrary/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/edit_cache.dir
+/Users/lucky/as_code/APKPatchUpdate/mylibrary/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/lucky/as_code/APKPatchUpdate/mylibrary/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/bspatch.dir
+/Users/lucky/as_code/APKPatchUpdate/mylibrary/.externalNativeBuild/cmake/release/x86_64/bzip2/CMakeFiles/edit_cache.dir
+/Users/lucky/as_code/APKPatchUpdate/mylibrary/.externalNativeBuild/cmake/release/x86_64/bzip2/CMakeFiles/rebuild_cache.dir

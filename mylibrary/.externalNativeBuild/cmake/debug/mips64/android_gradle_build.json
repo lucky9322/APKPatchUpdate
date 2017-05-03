@@ -1,0 +1,42 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/lucky/as_code/APKPatchUpdate/mylibrary/src/main/cpp/CMakeLists.txt",
+		"/Users/lucky/as_code/APKPatchUpdate/mylibrary/src/main/cpp/bzip2/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"/Users/lucky/Downloads/sdk/cmake/3.6.3155560/bin/cmake --build /Users/lucky/as_code/APKPatchUpdate/mylibrary/.externalNativeBuild/cmake/debug/mips64 --target clean"
+	],
+	"libraries" : 
+	{
+		"bspatch-Debug-mips64" : 
+		{
+			"abi" : "mips64",
+			"artifactName" : "bspatch",
+			"buildCommand" : "/Users/lucky/Downloads/sdk/cmake/3.6.3155560/bin/cmake --build /Users/lucky/as_code/APKPatchUpdate/mylibrary/.externalNativeBuild/cmake/debug/mips64 --target bspatch",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=mips64el-none-linux-android --gcc-toolchain=/Users/lucky/Downloads/sdk/ndk-bundle/toolchains/mips64el-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/lucky/Downloads/sdk/ndk-bundle/platforms/android-21/arch-mips64 -Dbspatch_EXPORTS  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "/Users/lucky/as_code/APKPatchUpdate/mylibrary/src/main/cpp/bspatch.c",
+					"workingDirectory" : "/Users/lucky/as_code/APKPatchUpdate/mylibrary/.externalNativeBuild/cmake/debug/mips64"
+				}
+			],
+			"output" : "/Users/lucky/as_code/APKPatchUpdate/mylibrary/build/intermediates/cmake/debug/obj/mips64/libbspatch.so",
+			"toolchain" : "2358150922603530318"
+		}
+	},
+	"toolchains" : 
+	{
+		"2358150922603530318" : 
+		{
+			"cCompilerExecutable" : "/Users/lucky/Downloads/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/lucky/Downloads/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}
