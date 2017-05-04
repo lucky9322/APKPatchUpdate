@@ -1,5 +1,0 @@
-/Users/lucky/as_code/APKPatchUpdate/mylibrary/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
-/Users/lucky/as_code/APKPatchUpdate/mylibrary/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
-/Users/lucky/as_code/APKPatchUpdate/mylibrary/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/bspatch.dir
-/Users/lucky/as_code/APKPatchUpdate/mylibrary/.externalNativeBuild/cmake/debug/armeabi-v7a/bzip2/CMakeFiles/edit_cache.dir
-/Users/lucky/as_code/APKPatchUpdate/mylibrary/.externalNativeBuild/cmake/debug/armeabi-v7a/bzip2/CMakeFiles/rebuild_cache.dir
