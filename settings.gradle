@@ -1,1 +1,1 @@
-include ':app', ':patch_library', ':common_library'
+include ':app', ':patch_library', ':common_library', ':net_library'
